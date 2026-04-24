@@ -41,7 +41,7 @@ cd online_game
 npm install
 npm start
 
-Цель проекта
+## Цель проекта
 Проект создан в рамках обучения для изучения:
 
 Сетевого взаимодействия
@@ -50,10 +50,11 @@ Real-time приложений
 
 Разработки игр в браузере
 
-Как выглядит интерфейс
-https://github.com/user-attachments/assets/2937eb06-3422-449a-a0db-9a658f34ceaa
+## Как выглядит интерфейс
+<img width="1128" height="735" alt="image" src="https://github.com/user-attachments/assets/5b48a82d-deec-495d-8421-64b3ea1f5265" />
 
-Структура проекта (примерная)
+
+## Структура проекта (примерная)
 
 online_game/
 ├── public/          # Frontend файлы
@@ -64,4 +65,3 @@ online_game/
 ├── package.json     # Зависимости
 └── README.md        # Этот файл
 
-Проект создан в образовательных целях.
