@@ -33,6 +33,22 @@
 
 ---
 
+## Цель проекта
+
+Проект создан в рамках обучения для изучения:
+
+- Сетевого взаимодействия
+- Real-time приложений
+- Разработки игр в браузере
+
+---
+
+## Как выглядит интерфейс
+
+https://github.com/user-attachments/assets/5b48a82d-deec-495d-8421-64b3ea1f5265
+
+---
+
 ## Как запустить
 
 ```bash
@@ -40,20 +56,9 @@ git clone https://github.com/neulovimiy/online_game.git
 cd online_game
 npm install
 npm start
-Цель проекта
-Проект создан в рамках обучения для изучения:
 
-Сетевого взаимодействия
+## Структура проекта
 
-Real-time приложений
-
-Разработки игр в браузере
-
-Как выглядит интерфейс
-https://github.com/user-attachments/assets/5b48a82d-deec-495d-8421-64b3ea1f5265
-
-Структура проекта
-text
 online_game/
 ├── public/          # Frontend файлы
 │   ├── index.html
