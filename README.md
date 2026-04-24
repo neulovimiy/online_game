@@ -52,15 +52,15 @@
 
 ## Структура проекта
 
-online_game/
-├── public/          # Frontend файлы
-│   ├── index.html
-│   ├── style.css
-│   └── client.js
-├── server.js        # Серверная часть
-├── package.json     # Зависимости
-└── README.md        # Этот файл
-
+- **online_game/** - корневая папка
+  - **public/** - Frontend файлы
+    - index.html
+    - style.css
+    - client.js
+  - **server.js** - Серверная часть
+  - **package.json** - Зависимости
+  - **README.md** - Этот файл
+  
 ---
 
 ## Как запустить
