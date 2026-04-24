@@ -45,17 +45,10 @@
 
 ## Как выглядит интерфейс
 
-https://github.com/user-attachments/assets/5b48a82d-deec-495d-8421-64b3ea1f5265
+<img width="1125" height="742" alt="image" src="https://github.com/user-attachments/assets/a9825141-daa4-4a80-99f5-263f1169e964" />
+
 
 ---
-
-## Как запустить
-
-```bash
-git clone https://github.com/neulovimiy/online_game.git
-cd online_game
-npm install
-npm start
 
 ## Структура проекта
 
@@ -67,3 +60,13 @@ online_game/
 ├── server.js        # Серверная часть
 ├── package.json     # Зависимости
 └── README.md        # Этот файл
+
+---
+
+## Как запустить
+
+```bash
+git clone https://github.com/neulovimiy/online_game.git
+cd online_game
+npm install
+npm start
