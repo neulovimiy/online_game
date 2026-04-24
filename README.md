@@ -41,6 +41,8 @@ cd online_game
 npm install
 npm start
 
+---
+
 ## Цель проекта
 Проект создан в рамках обучения для изучения:
 
@@ -50,9 +52,12 @@ Real-time приложений
 
 Разработки игр в браузере
 
+---
+
 ## Как выглядит интерфейс
 <img width="1128" height="735" alt="image" src="https://github.com/user-attachments/assets/5b48a82d-deec-495d-8421-64b3ea1f5265" />
 
+---
 
 ## Структура проекта (примерная)
 
